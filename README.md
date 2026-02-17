@@ -120,9 +120,24 @@ Flutter Developer | Firebase Integration | Digital Safety Enthusiast
 
 ---
 
-## 📌 License
+## 📸 App Screenshots
 
-This project is licensed under the MIT License.
+### 🏠 Home Screen
+![Home Screen](home_screen.jpeg)
+
+### 👵 Elderly Module
+![Elderly Module](elderly_module.jpeg)
+
+### 👶 Kids Module
+![Kids Module](kids_module.jpeg)
+
+### 🌐 Language Selection
+![Language Selection](language_selection.jpeg)
+
+### ℹ️ App Information Screen
+![App Info](app_info.jpeg)
+
+---
 
 
 
