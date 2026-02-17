@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265937702156",
+    "project_id": "me-a29a6",
+    "storage_bucket": "me-a29a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265937702156:android:6b0466e18287dde7834d29",
+        "android_client_info": {
+          "package_name": "com.example.secureme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzxJA0LLAfJNoSuwDFnfMoOc4wJdm5CKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+name: secureme
+description: "Smart Digital Safety App"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^3.8.5
+  firebase_core: ^2.27.0
+  cloud_firestore: ^4.15.0
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.2.5
+
+
+
+
+  cupertino_icons: ^1.0.8
+
+  # Animations & UI (MUST be here)
+  animated_widgets: ^1.1.0
+  flutter_animate: ^4.5.0
+  google_fonts: ^6.1.0
+  lottie: ^3.1.0
+  cached_network_image: ^3.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/kids_bg.jpg
+
+
