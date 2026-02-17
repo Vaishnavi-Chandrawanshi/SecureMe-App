@@ -123,21 +123,27 @@ Flutter Developer | Firebase Integration | Digital Safety Enthusiast
 ## 📸 App Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](home_screen.jpeg)
-
-### 👵 Elderly Module
-![Elderly Module](elderly_module.jpeg)
-
-### 👶 Kids Module
-![Kids Module](kids_module.jpeg)
-
-### 🌐 Language Selection
-![Language Selection](language_selection.jpeg)
-
-### ℹ️ App Information Screen
-![App Info](app_info.jpeg)
+![Home Screen](assets/images/home_screen.jpeg)
 
 ---
+
+### 👵 Elderly Module
+![Elderly Module](assets/images/elderly_module.jpeg)
+
+---
+
+### 👶 Kids Module
+![Kids Module](assets/images/kids_module.jpeg)
+
+---
+
+### 🌐 Language Selection
+![Language Selection](assets/images/language_selection.jpeg)
+
+---
+
+### ℹ️ App Information Screen
+![App Info](assets/images/app_info.jpeg)
 
 
 
